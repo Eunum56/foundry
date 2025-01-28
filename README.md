@@ -21,7 +21,7 @@ To get started with the Foundry Project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone --recurse-submodules https://github.com/your-username/foundry.git
+   git clone --recurse-submodules https://github.com/Eunum56/foundry.git
    cd foundry
    ```
 
