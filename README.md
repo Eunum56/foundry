@@ -43,13 +43,11 @@ To get started with the Foundry Project, follow these steps:
 - Description: A simple storage contract example using Foundry.
 - Repository: [foundry-simple-storage](https://github.com/Eunum56/foundry-simple-storage.git)
 
-## Cloning Individual Projects
+### Foundry Fund Me
 
-Each project within this repository is a submodule with its own repository. You can clone individual repositories if needed. For example:
-
-```bash
-git clone https://github.com/Eunum56/foundry-simple-storage.git
-```
+- Path: `foundry-fund-me/`
+- Description: A Simple fund-me example using Foundry.
+- Repository: [foundry-fund-me](https://github.com/Eunum56/foundry-fund-me.git)
 
 ## Contributing
 
