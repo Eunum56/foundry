@@ -4,3 +4,6 @@
 [submodule "foundry-fund-me"]
 	path = foundry-fund-me
 	url = https://github.com/Eunum56/foundry-fund-me
+[submodule "foundry-lottery"]
+	path = foundry-lottery
+	url = https://github.com/Eunum56/foundry-lottery
