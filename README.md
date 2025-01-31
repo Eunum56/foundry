@@ -49,6 +49,12 @@ To get started with the Foundry Project, follow these steps:
 - Description: A Simple fund-me example using Foundry.
 - Repository: [foundry-fund-me](https://github.com/Eunum56/foundry-fund-me.git)
 
+### Foundry Lottery
+
+- Path: `foundry-lottery/`
+- Description: A Simple Lottery project example using Foundry.
+- Repository: [foundry-lottery](https://github.com/Eunum56/foundry-lottery.git)
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
