@@ -7,3 +7,6 @@
 [submodule "foundry-lottery"]
 	path = foundry-lottery
 	url = https://github.com/Eunum56/foundry-lottery
+[submodule "foundry-ERC20"]
+	path = foundry-ERC20
+	url = https://github.com/Eunum56/foundry-ERC20
