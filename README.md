@@ -55,6 +55,12 @@ To get started with the Foundry Project, follow these steps:
 - Description: A Simple Lottery project example using Foundry.
 - Repository: [foundry-lottery](https://github.com/Eunum56/foundry-lottery.git)
 
+### Foundry ERC20
+
+- Path: `foundry-ERC20/`
+- Description: A Simple ERC20 Standard example using Foundry.
+- Repository: [foundry-ERC20](https://github.com/Eunum56/foundry-ERC20.git)
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
