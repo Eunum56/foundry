@@ -10,3 +10,6 @@
 [submodule "foundry-ERC20"]
 	path = foundry-ERC20
 	url = https://github.com/Eunum56/foundry-ERC20
+[submodule "foundry-nft"]
+	path = foundry-nft
+	url = https://github.com/Eunum56/foundry-nft
