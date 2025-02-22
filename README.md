@@ -67,6 +67,12 @@ To get started with the Foundry Project, follow these steps:
 - Description: A Simple NFT ERC721 project example using Foundry.
 - Repository: [foundry-nft](https://github.com/Eunum56/foundry-nft.git)
 
+### Foundry DeFi StableCoin
+
+- Path: `foundry-DeFi-stablecoin/`
+- Description: A Simple DeFi StableCoin pegged project example using Foundry.
+- Repository: [foundry-DeFi-stablecoin](https://github.com/Eunum56/foundry-DeFi-stablecoin.git)
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
