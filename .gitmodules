@@ -13,3 +13,6 @@
 [submodule "foundry-nft"]
 	path = foundry-nft
 	url = https://github.com/Eunum56/foundry-nft
+[submodule "foundry-DeFi-stablecoin"]
+	path = foundry-DeFi-stablecoin
+	url = https://github.com/Eunum56/foundry-DeFi-stablecoin
