@@ -58,7 +58,7 @@ To get started with the Foundry Project, follow these steps:
 ### Foundry ERC20
 
 - Path: `foundry-ERC20/`
-- Description: A Simple ERC20 Standard example using Foundry.
+- Description: A Simple ERC20 Standard (Build from scratch) example using Foundry.
 - Repository: [foundry-ERC20](https://github.com/Eunum56/foundry-ERC20.git)
 
 ### Foundry NFT
@@ -72,6 +72,12 @@ To get started with the Foundry Project, follow these steps:
 - Path: `foundry-DeFi-stablecoin/`
 - Description: A Simple DeFi StableCoin pegged project example using Foundry.
 - Repository: [foundry-DeFi-stablecoin](https://github.com/Eunum56/foundry-DeFi-stablecoin.git)
+
+### Foundry Rebase Token
+
+- Path: `foundry-Rebase-Token/`
+- Description: A Simple Rebase Token project example using Foundry.
+- Repository: [foundry-Rebase-Token](https://github.com/Eunum56/foundry-Rebase-Token.git)
 
 ## Contributing
 
