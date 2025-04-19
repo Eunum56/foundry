@@ -19,3 +19,6 @@
 [submodule "foundry-Rebase-Token"]
 	path = foundry-Rebase-Token
 	url = https://github.com/Eunum56/foundry-Rebase-Token
+[submodule "foundry-NFT-From-Scratch"]
+	path = foundry-NFT-From-Scratch
+	url = https://github.com/Eunum56/foundry-NFT-From-Scratch.git

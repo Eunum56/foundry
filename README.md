@@ -61,6 +61,14 @@ To get started with the Foundry Project, follow these steps:
 - Description: A Simple ERC20 Standard (Build from scratch) example using Foundry.
 - Repository: [foundry-ERC20](https://github.com/Eunum56/foundry-ERC20.git)
 
+
+### Foundry ERC721(NFT)
+
+- Path: `foundry-NFT-From-Scratch/`
+- Description: A Simple ERC721(NFT) standard (Build from scratch) example using Foundry.
+- Repository: [foundry-NFT-From-Scratch](https://github.com/Eunum56/foundry-NFT-From-Scratch.git)
+
+
 ### Foundry NFT
 
 - Path: `foundry-nft/`
