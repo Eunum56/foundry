@@ -87,6 +87,12 @@ To get started with the Foundry Project, follow these steps:
 - Description: A Simple Rebase Token project example using Foundry.
 - Repository: [foundry-Rebase-Token](https://github.com/Eunum56/foundry-Rebase-Token.git)
 
+### Foundry Merkle Airdrop
+
+- Path: `foundry-Merkle-Airdrop/`
+- Description: A Simple Merkle Airdrop(ERC20) project example using Foundry.
+- Repository: [foundry-Merkle-Airdrop](https://github.com/Eunum56/foundry-Merkle-Airdrop.git)
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:

@@ -22,3 +22,6 @@
 [submodule "foundry-NFT-From-Scratch"]
 	path = foundry-NFT-From-Scratch
 	url = https://github.com/Eunum56/foundry-NFT-From-Scratch.git
+[submodule "foundry-Merkle-Airdrop"]
+	path = foundry-Merkle-Airdrop
+	url = https://github.com/Eunum56/foundry-Merkle-Airdrop.git
