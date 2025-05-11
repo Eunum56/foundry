@@ -28,3 +28,6 @@
 [submodule "foundry-SC-Upgrades"]
 	path = foundry-SC-Upgrades
 	url = https://github.com/Eunum56/foundry-SC-Upgrades.git
+[submodule "foundry-Account-Abstraction"]
+	path = foundry-Account-Abstraction
+	url = https://github.com/Eunum56/foundry-Account-Abstraction
