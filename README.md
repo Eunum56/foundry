@@ -93,6 +93,12 @@ To get started with the Foundry Project, follow these steps:
 - Description: A Simple Merkle Airdrop(ERC20) project example using Foundry.
 - Repository: [foundry-Merkle-Airdrop](https://github.com/Eunum56/foundry-Merkle-Airdrop.git)
 
+### Foundry SC Upgrades
+
+- Path: `foundry-SC-Upgrades/`
+- Description: A Simple Upgradable Smart Contract project example using Foundry.
+- Repository: [foundry-SC-Upgrades](https://github.com/Eunum56/foundry-SC-Upgrades.git)
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
