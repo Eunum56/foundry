@@ -25,3 +25,6 @@
 [submodule "foundry-Merkle-Airdrop"]
 	path = foundry-Merkle-Airdrop
 	url = https://github.com/Eunum56/foundry-Merkle-Airdrop.git
+[submodule "foundry-SC-Upgrades"]
+	path = foundry-SC-Upgrades
+	url = https://github.com/Eunum56/foundry-SC-Upgrades.git
