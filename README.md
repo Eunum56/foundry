@@ -99,6 +99,14 @@ To get started with the Foundry Project, follow these steps:
 - Description: A Simple Upgradable Smart Contract project example using Foundry.
 - Repository: [foundry-SC-Upgrades](https://github.com/Eunum56/foundry-SC-Upgrades.git)
 
+
+### Foundry Account Abstraction
+
+- Path: `foundry-Account-Abstraction/`
+- Description: A Simple Account Abstraction on Ethereum and ZKSync network project example using Foundry.
+- Repository: [foundry-Account-Abstraction](https://github.com/Eunum56/foundry-Account-Abstraction.git)
+
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
